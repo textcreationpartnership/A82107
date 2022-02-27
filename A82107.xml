@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of many thousand well-affected persons, inhabitants in and about the cities of London and Westminster, expressing their adherence to this present Parliament; as also their sense of a Free Parliament, so much cried up by the cavaliers and others, that know not what it is; but go along in company with them; together with divers other expostulatory particulars.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82107</idno>
+            <idno type="STC">Wing D613</idno>
+            <idno type="STC">Thomason 669.f.23[5]</idno>
+            <idno type="STC">ESTC R211491</idno>
+            <idno type="EEBO-CITATION">99870213</idno>
+            <idno type="PROQUEST">99870213</idno>
+            <idno type="VID">163661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163661)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of many thousand well-affected persons, inhabitants in and about the cities of London and Westminster, expressing their adherence to this present Parliament; as also their sense of a Free Parliament, so much cried up by the cavaliers and others, that know not what it is; but go along in company with them; together with divers other expostulatory particulars.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "1659 Jan. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163661:1" rendition="simple:additions"/>
+            <head>A Declaration of many thouſand well-affected Perſons, Inhabitants in and about the Cities of <hi>London</hi> and <hi>Weſtminster,</hi> expreſſing their adherence to this preſent Parlia<g ref="char:EOLhyphen"/>ment; as alſo their ſenſe of a Free Parliament, ſo much cried up by the Cavaliers and others, that know not what it is; but go along in company with them; Together with divers other expoſtulatory Particulars.</head>
+            <p>VVE ſhould wonder at the late, and ſtill bruitiſh looſneſs of mens Tongues and Pens, did we not (without much ſcrutiny,) know, that the ſpirit of the unreaſonable and unplacable Cavaliers (we mean (moſtly) the ſottiſh, prophane, beggerly, and ſpend-thrift ones) appear in all the ſordid Pamphlets that daily flie abroad without check or controll; who by theſe means (we know) would put upon us <hi>Bears skins,</hi> and when they ſhould do it, would inflame the windy headed vulgar to rend us to pieces, as <hi>Monſters</hi> not fit to converſe amongſt ſober men. We do therefore hereby declare, and let them and others know, that though we have been hitherto ſilent, yet we are not ſottiſh or afraid (through the ſtrength of <hi>Jehovah)</hi> of their <hi>fury;</hi> the Lord will in his due time rebuke them again, after often former rebukes unheeded, and enable us to ſay, <hi>Where is the fury of the Oppreſſour?</hi>
+            </p>
+            <p>And although we ſhall not at all juſtifie the late heady and faithleſſe expulſion of this Parliament in <hi>October</hi> laſt paſt, by the (once re<g ref="char:EOLhyphen"/>nowned) Officers of the Army, who (we hope) do (as we are confident they ought) bitterly lament their miſcarriages therein, <hi>In purſuing good ends by indirect and unjuſtifiable means, in breaking Gods Inſtitutions in purſuit of his glory:</hi> Or (in a word) <hi>In doing evil that good may come thereby,</hi> by reaſon whereof they are for the preſent rejected, <hi>Becauſe they rejected the word of the Lord, and what wiſdome is in them?</hi> Yet we cannot but ſadly deplore, that they are tolerated to be ſcandalouſly reproached almoſt every day by the <note place="margin">
+                  <hi>Jer.</hi> 8. 9.</note> publick and filthy gazets and paſquils of <hi>tinkerly brains,</hi> that ſcarce drop ſo much <hi>common ſenſe or modeſty,</hi> as deſerves the curſory peruſal of a man that hath but a <hi>ſlender value</hi> of time; nay, that do nauſeate men of meer honeſt morals, for fear of being <hi>tainted</hi> with the conta<g ref="char:EOLhyphen"/>gion of their <hi>familiarneſſe and frequency.</hi>
+            </p>
+            <p>And it is our ſad obſervation, That the ſpirit of prophaneneſs is now triumphant every where in this Nation; yea ſo triumphant that <hi>Ma<g ref="char:EOLhyphen"/>giſtracy</hi> and <hi>Miniſtry</hi> are debaſed even at the unhallowed feet of the rabble, and ready to be kicked at by them upon the leaſt pretended oc<g ref="char:EOLhyphen"/>caſion; inſomuch that none that ought in duty, dares without danger puniſh or reprove things done, even againſt the <hi>common light of men as men,</hi> even that of nature.</p>
+            <p>We obſerve alſo to our great grief an <hi>unparalleld Apoſtacy,</hi> from once common and undeniable principles, among thoſe that once en<g ref="char:EOLhyphen"/>couraged themſelves in their God, and ſtrengthened the hands of one another in the late ſharp civil Warres, ſo that now they cry up that which once they helped to pull down, and call back exploded abominations, and lick up what they once vomited into the naſtieſt corners they could finde to diſcharge themſelves.</p>
+            <p>We are aware and have conſidered who they are that with a wide, yet <hi>wry mouth</hi> cry up a <hi>Free Parliament</hi> (a thing taken in ſome ſenſe, that is very deſirable in times of a long continued peace) but where was <hi>it</hi> ever known in a prudent State after a <hi>Civil War?</hi> Did the wiſe and politick State of <hi>Rome</hi> ſuffer free Conventions without due qualifications after a Civil Warre? We ſay no; we know this is the Cava<g ref="char:EOLhyphen"/>liers <hi>Trojan-horſe</hi> lined within with rapines, murders, and what not, of them that fought and acted againſt them? Nay, we boldly affirm, That <hi>England</hi> in the vulgar notion of a <hi>Free Parliament</hi> never had any ſuch, ſince <hi>Magna Charta</hi> (and ſome of us are not altogether igno<g ref="char:EOLhyphen"/>rant of the Laws of this Nation) nor was <hi>Magna Charta</hi> neither <hi>free.</hi> Was not that a forced Charter in its creation? (this cannot be denied us) Nay, in the continuance too; through thirty Parliaments by the ſtrict Rules of Law, who can give us inſtance of a Parliament in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> where <hi>no armour were worn in or neer the Town, or place where the Parliament ſate,</hi> but by <hi>Parliament men, and Officers of Ju<g ref="char:EOLhyphen"/>ſtice</hi> during their ſitting? Or that no <hi>games and playes</hi> were uſed in or neer the Town or place <hi>where the Parliament ſate, by men, women or children, during its ſitting?</hi> If not, which we are ſure no man living can deny; then when was there <note place="margin">Coke 3<hi rend="sup">d</hi> 
+                  <hi>Inſt.</hi> 160.</note> a <hi>Free Parliament</hi> by ſtrict Rules of Law? if theſe free Parliamentiers mean not this (which yet the intention of a Free Parliament includes) What do theſe men mean? They muſt be ingenuous to confeſs, they mean three Eſtates of King, Popiſh and other Lords, Archbiſhops, Biſhops, <hi>&amp;c.</hi> the prodigious concomitants, and effects of ſuch an Aſſembly, are too long, and too foul, as much as to touch up<g ref="char:EOLhyphen"/>on here, yet are eaſily diſcerned by men that have not <hi>made themſelves</hi> blind in the colours of good and evil. Theſe, or moſt of theſe, they once decried and crucified, and now they cry <hi>Hoſannah</hi> to: Are not theſe things abominable <hi>incoſiſtencies?</hi> Oh where are you <hi>Engliſh men?</hi> And what, are you men ſtill? If you be not, the Lord bring you back from <hi>graſs,</hi> like <hi>Nebuchadnezzar</hi> again, <hi>and lift up your eyes to</hi> 
+               <note place="margin">
+                  <hi>Dan.</hi> 4. 33, 34.</note> 
+               <hi>Heaven, and make your underſtanding to return to you, that you may praiſe the moſt High,</hi> &amp;c.</p>
+            <p>We may not alſo but take notice of the Cavaliers and malecontents publiſhing without colour of truth, divers Declarations Subſcribed with the names of ſeverall Perſons, who never knew of ſuch Declarations, or of their <hi>names</hi> put to them, till they ſaw them in <hi>Print,</hi> as divers of the Perſons whoſe names are to the ſaid Declarations, have told ſome of us: this is an old Artifice of the Father of lies, and forged upon his <hi>infernall Anvill,</hi> and will prove (we hope) to the Authors expectation but a broken reed, and a diſappointment ſuitable to the deſign.</p>
+            <p>Having thus far obſerved ſome of the <hi>raging</hi> evils of this day, and ſuſpecting the Devils chaine to extend to a greater length then we <hi>have yet diſcovered,</hi> we here openly Declare our Reſolutions to ſtand to (whether it be unto life or death) theſe Principles folowing.</p>
+            <p n="1">1. That we do own this preſent Parliament, as it now ſits as the Supreame Authority of theſe Nations, and that we will adhere to them with our lives and other deareſt concernments, in purſuance of their ſetling a Free-ſtate, without ſingle Perſon, King, or Houſe of Lords, and in purſuance of their Declaration of the 7th of <hi>May</hi> laſt paſt.</p>
+            <p n="2">2. That we will ſtand by a godly Goſpell Miniſtry in theſe Nations, adheare to them, and countenance them againſt all Oppoſers, toge<g ref="char:EOLhyphen"/>ther with a publick comfortable maintenance for them.</p>
+            <p n="3">3. That we are not either for the Secluded Members (though we honour and highly reſpect ſome of them, who have not been Advocates and Agents for <hi>Charles Stuart)</hi> to ſit in this Parliament; nor do we own a Free-Parliament in the generall unlimitted notion of it at all, nor for any Members to ſit in <hi>future Repreſentatives</hi> without due and fitting qualifications to be agreed on by this Parliament, without which we muſt neceſſarily ſet up our enemies, and the enemies of God and Religion, to be Judges of our lives and deareſt properties, which neither <hi>reaſon, ſafety,</hi> nor yet <hi>prudence</hi> will prompt us to.</p>
+            <p n="4">4. That we deteſt and abhor the wicked and prophane Paſquills every day uttered abroad againſt the Parliament, and divers other eminent and worthy Perſons, as tending to the ſcandall of Magiſtracy, and the corruption of manners; which we humbly conceive the civill Magi<g ref="char:EOLhyphen"/>ſtrates ought to withſtand and ſeverely puniſh, theſe Paſquills being obſerved to be the griping of the bowels of the Nation, and portending civill tempeſts and troubles.</p>
+            <p n="5">5. That we ſhall willingly according to our abilities pay our proportion of Taxes and other neceſſary impoſitions for maintenance of the Ar<g ref="char:EOLhyphen"/>my and Navy, in purſuance of the Authority of this Parliament, while it ſhall be thought neceſſary to continue them.</p>
+            <p n="6">6. That we do and will own the Univerſities, and Nurſeries of Learning, as very much conducing to reduce Men to purer Morals, and as Handmaids of the Goſpell of Peace.</p>
+            <p n="7">7. That we do and will own the Laws of the Land as our Birth-right, derivable to our Poſterities, and as the fences of our Lives, Liberties, and Eſtaes, and make it our requeſts to this Parliament, that where they are defective, oppreſſive, tedious, or chargeable, they may be in <hi>due</hi> time reformed.</p>
+            <p n="8">8. That we ſhall and will aſſiſt the Parliament, their Army, one another, and all other Perſons in the three Nations, in purſuance of the particulars before mentioned to the utmoſt of our power maugre the moſt ſtareing difficulties that we ſhall meet withall, and will not be drawn therefrom by fear or favour, or any other the plauſible pretenſions of any Man or Men whatſoever.</p>
+            <p>And now having unboſomed our ſelves to all Men; Firſt, We deſire our Adverſaries (we wiſh they were not ſo) to conſider what it may coſt them before they invade our Lives, Religion and Liberties; and to conſider what they now enjoy, and yet may enjoy by a quiet ſub<g ref="char:EOLhyphen"/>mitting to the preſent Government, and to the Hand of God, bowing themſelves before his <hi>paſt fearfull rebukes,</hi> before they provoke him a<g ref="char:EOLhyphen"/>gain; and to put theſe in Ballance, and wiſely to weigh which will counterpoiſe; a preſent ſecurity, and injoying more then they deſerve, or a hazard of more <hi>wrath</hi> as well as <hi>War.</hi> In the ſtrength of God we dare ſay, we fear them not; <hi>He that delivered us from the Lion and from the Beare, he will deliver us ſtill.</hi> Secondly, We deſire our friends imbarqued in the ſame common cauſe with us, to conſider what ſalvations God hath wrought for them; and now to feare before him alone. Doth not the Lord ſay, <hi>Who art thou that thou ſhouldeſt be afraid of man that ſhall dye, and of the ſon of man that ſhall be made as graſs; and forgetteſt the Lord thy Maker, that hath ſtretched forth the Heavens and laid the foun<g ref="char:EOLhyphen"/>dations of the earth, and haſt feared continually every day, becauſe of the fury of the oppreſſor, as if he were ready to deſtroy? AND WHERE IS</hi> 
+               <note place="margin">51. 22, 23.</note> 
+               <hi>THE FURY OF THE OPPRESSOR?</hi> Lo, he appeares, would deſtroy you and us, but cannot, then he diſappeares; If the ene<g ref="char:EOLhyphen"/>mies of God be vigilant to hurt you, be you vigilant to defend your ſelves; if they be active for their Maſter the Devill, be you more active <note place="margin">64. 1, <hi>&amp;c.</hi>
+               </note> for God your better Maſter. <hi>He will rend the Heavens, he will come down and the Mountains ſhall flow down at his preſence,</hi> &amp;c.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
